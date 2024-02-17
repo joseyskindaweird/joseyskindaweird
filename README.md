@@ -1,16 +1,21 @@
-### Hi there 👋
+# Helloooo
+## i'm the gay computer guy, but you can call me Strange.
+i make shell and powershell scripts for convenience so you don't gotta do it yourself  
 
-<!--
-**strangetheproot/strangetheproot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## you reach me using these links below
 
-Here are some ideas to get you started:
+Discord: strange_being
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Twitter/X: [@strangetheproot](https://twitter.com/strangetheproot)
+
+eMail: smg72411@gmail.com
+
+
+
+thats all about me bye bye
+
+
+
+<img src=https://raw.githubusercontent.com/strangetheproot/practical-shell-files/main/assets/dance.gif>
+
+
