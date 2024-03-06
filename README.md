@@ -1,8 +1,9 @@
-# Helloooo
-## i'm the gay computer guy, but you can call me Strange.
+# Hello there
+## i'm that gay computer guy, but you can call me Strange. (or strangette)
 i make shell and powershell scripts for convenience so you don't gotta do it yourself  
+use any pronouns for me i dont really care 
 
-## you reach me using these links below
+## you can reach me on social media using these ones beloww
 
 Discord: strange_being
 
