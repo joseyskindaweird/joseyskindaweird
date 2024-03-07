@@ -1,7 +1,6 @@
 # Hello there
-## i'm that gay computer guy, but you can call me Strange. (or strangette)
-i make shell and powershell scripts for convenience so you don't gotta do it yourself  
-use any pronouns for me i dont really care 
+## i'm a transfem arch user, but you can call me Strange.
+i make shell scripts for convenience so you don't gotta do commands yourself  
 
 ## you can reach me on social media using these ones beloww
 
