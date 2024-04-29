@@ -1,18 +1,17 @@
-# Hello there
-## i'm a transfem arch user, but you can call me Strange.
-i make shell scripts for convenience so you don't gotta do commands yourself  
+# Hello there!
+I make shell scripts and stuff.
 
-## you can reach me on social media using these ones beloww
+I'm not very active, but you'll see me once or twice 
+
+### You can contact me using these social media services below
 
 Discord: strange_being
 
-Twitter/X: [@strangetheproot](https://twitter.com/strangetheproot)
-
-eMail: smg72411@gmail.com
+Twitter/X: [@astrangetrans](https://twitter.com/astrangetrans)
 
 
-
-thats all about me bye bye
+That's all about me
+Cya!
 
 
 
