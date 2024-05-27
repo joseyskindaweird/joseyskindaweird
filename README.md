@@ -1,11 +1,12 @@
 # Hello there!
 I make shell scripts and stuff.
 
-I'm not very active, but you'll see me once or twice 
+I'm not very active here on the Github, but you'll see me.
 
 ### You can contact me using these social media services below
+I use these more often
 
-Discord: strange_being
+Discord: joseythestrangeone
 
 Twitter/X: [@astrangetrans](https://twitter.com/astrangetrans)
 
