@@ -6,16 +6,15 @@ I'm not very active here on the Github, but you'll see me.
 ### You can contact me using these social media services below
 I use these more often
 
-Discord: joseythestrangeone
+Discord: joseyskindaweird
 
-Twitter/X: [@astrangetrans](https://twitter.com/astrangetrans)
+Twitter/X: [@joseyskindaa](https://x.com/joseyskindaa)
 
 
 That's all about me
-Cya!
+yeah
 
 
-
-<img src=https://raw.githubusercontent.com/strangetheproot/practical-shell-files/main/assets/dance.gif>
+<img src=https://raw.githubusercontent.com/joseyskindaweird/practical-shell-files/main/assets/dance.gif>
 
 
